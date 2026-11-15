@@ -38,11 +38,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanatPatki&show_icons=true&hide_border=true&count_private=true" alt="Sanat's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanatPatki&layout=compact&hide_border=true" alt="Top languages" height="165">
+  <img src="https://img.shields.io/github/followers/SanatPatki?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=30a14e" alt="Followers">
+  <img src="https://img.shields.io/github/stars/SanatPatki?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=40c463" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=SanatPatki&style=for-the-badge&label=Profile+Views&color=30a14e" alt="Profile views">
 </p>
-
-<p align="center"><em>non est vivere sed valere vita est</em></p>
